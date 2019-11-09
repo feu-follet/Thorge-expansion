@@ -4,7 +4,7 @@
 **A large mod that adds tons of contents, some are usefull some or unnecessary
 some are Overpowered some are balanced, adds new enemies, blocks, turrets, etc**
 ***
-##Lore
+#Lore
 
 Crux managed to penetrate one of sharded's main Supply defense and managed to destroy
 one of the sharded's prototype cores Crecentra and also stole a blueprint of it,
