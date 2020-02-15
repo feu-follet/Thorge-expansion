@@ -1,0 +1,35 @@
+{
+    "size": 3,
+    "update": true,
+    "solid": true,
+    "hasItems": true,
+    "configurable": true,
+    "itemCapacity": 500,
+    "localizedName": "Nuclear detonator",
+	"description": "A modified nuclear reactor repurposed to explode violently, When theres no more light for your way, then detonate this to light it up again",
+    "category": "effect",
+    "requirements": [
+        {
+            "item": "plastanium",
+            "amount": 750
+        },
+        {
+            "item": "surge-alloy",
+            "amount": 850
+        },
+        {
+            "item": "phase-fabric",
+            "amount": 400
+        }
+    ],
+    "consumes": {
+        "items": {
+            "items": [
+                {
+                    "item": "blast-compound",
+                    "amount": 500
+                }
+            ]
+        }
+    }
+}

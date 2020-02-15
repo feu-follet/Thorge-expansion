@@ -1,0 +1,6 @@
+{
+	"name": "None",
+	"description": "A workaround for blocks that needs to use liquids but wasnt supposed too",
+	"viscosity": 9223372036854775807,
+	"color": "00000000"
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Core: Atoma",
+	"description": "A large core, armored variant of cores, can carry extreme amount of items, designed for semi permanent missions",
+	"type": "CoreBlock",
+	"health": 14000,
+	"size": 6,
+	"itemCapacity": 25000,
+	"requirements": [
+	    {
+			"item": "plastanium",
+			"amount": 750
+		},
+		{
+			"item": "surge-alloy",
+			"amount": 850
+		},
+		{
+			"item": "phase-fabric",
+			"amount": 400
+		}
+	],
+//	"category": "effect",
+	"research": "vault"
+}

@@ -1,0 +1,28 @@
+{
+    "type": "Conveyor",
+    "name": "Stasis Conveyor",
+    "description": "Transports items really fast but cheaper than phase, explodes on destruction, low health",
+    "health": 10,
+    "baseExplosiveness": 8,
+    "requirements": [
+        {
+            "item": "titanium",
+            "amount": 3
+        },
+        {
+            "item": "metaglass",
+            "amount": 3
+        },
+        {
+            "item": "silicon",
+            "amount": 5
+        },
+        {
+            "item": "copper",
+            "amount": 10
+        }
+    ],
+    "category": "distribution",
+    "speed": 0.2,
+    "research": "titanium-conveyor"
+}

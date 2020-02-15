@@ -1,0 +1,61 @@
+{
+	"name": "Essence factory",
+	"description": "Produces Salvation in hopeless times",
+	"type": "UnitFactory",
+	"unitType": "essence",
+	"size": 3,
+	"produceTime": 480,
+	"health": 300,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 15.0,
+		"items": {
+			"items": [
+			    {
+					"item": "silicon",
+					"amount": 60
+				},
+				{
+					"item": "titanium",
+					"amount": 40
+				},
+				{
+					"item": "thorium",
+					"amount": 32
+				}, 
+				{
+					"item": "phase-fabric",
+					"amount": 10
+				}
+			]
+		}
+	},
+	"category": "units",
+	"research": "fortress-factory",
+	"requirements": [
+	    {
+			"item": "copper",
+			"amount": 1500
+		},
+		{
+			"item": "lead",
+			"amount": 1000
+		},
+		{
+			"item": "phase-fabric",
+			"amount": 800
+		},
+		{
+			"item": "titanium",
+			"amount": 500
+		},
+		{
+			"item": "silicon",
+			"amount": 350
+		},
+		{
+			"item": "surge-alloy",
+			"amount": 200
+		}
+	]
+}
