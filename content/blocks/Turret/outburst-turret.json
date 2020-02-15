@@ -10,6 +10,8 @@
 	"shootShake": 4,
 	"ammoUseEffect": "none",
 	"inaccuracy": 0,
+	"shootCone": 360,
+	"rotatespeed": 0,
 	"shootSound": "release",
 	"ammo": {
 		"pyratite": {
