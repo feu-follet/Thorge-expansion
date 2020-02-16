@@ -58,7 +58,7 @@
 		}
 	],
 	"category": "crafting",
-	"research": "oil-extractor",
-	"idleSound": "extractorLiquid",
-	"idleSoundVolume": 0.2
+	"research": "cryofluidmixer"
+	//"idleSound": "extractorLiquid",
+	//"idleSoundVolume": 0.2
 }

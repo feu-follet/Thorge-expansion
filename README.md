@@ -1,5 +1,7 @@
-Thorge expansion 1.0
-=========
+Thorge expansion 
+==
+*pre-releasease 1.1*
+
 ***
 **A large mod that adds tons of contents, some are usefull some or unnecessary
 some are Overpowered some are balanced, adds new enemies, blocks, turrets, etc**
@@ -29,5 +31,4 @@ Sharded quickly researched and started the production of "shells" for the "spiri
 
 right now theres not much here, soon more things will be added
 
-Pre-release 1.1
 ***
