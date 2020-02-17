@@ -96,7 +96,8 @@ const silo = extendContent(Block, "nuclear-detonator", {
                 Calls.createBullet(
                 
                 detonatorBullet,
-                tile.getTeam(), 
+                //tile.getTeam(), 
+                Team.derelict,
                 tile.drawx(), 
                 tile.drawy(), 
                 Mathf.random(1), 

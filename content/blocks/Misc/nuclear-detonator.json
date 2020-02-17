@@ -8,6 +8,7 @@
     "localizedName": "Nuclear detonator",
 	"description": "A modified nuclear reactor repurposed to explode violently, When theres no more light for your way, then detonate this to light it up again",
     "category": "effect",
+    //"baseExplosiveness": 1100,
     "requirements": [
         {
             "item": "plastanium",

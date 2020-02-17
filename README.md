@@ -1,6 +1,6 @@
 Thorge expansion 
 ==
-*pre-releasease 1.1*
+*pre-release 1.3*
 
 ***
 **A large mod that adds tons of contents, some are usefull some or unnecessary

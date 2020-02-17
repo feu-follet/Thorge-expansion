@@ -1,6 +1,6 @@
 {
 	"name": "Essence factory",
-	"description": "Produces Salvation in hopeless times",
+	"description": "Produces Mobile Area detonation-heal units",
 	"type": "UnitFactory",
 	"unitType": "essence",
 	"size": 3,
@@ -8,24 +8,24 @@
 	"health": 300,
 	"maxSpawn": 3,
 	"consumes": {
-		"power": 15.0,
+		"power": 12.0,
 		"items": {
 			"items": [
 			    {
 					"item": "silicon",
-					"amount": 60
+					"amount": 30
 				},
 				{
 					"item": "titanium",
-					"amount": 40
+					"amount": 25
 				},
 				{
 					"item": "thorium",
-					"amount": 32
+					"amount": 12
 				}, 
 				{
 					"item": "phase-fabric",
-					"amount": 10
+					"amount": 2
 				}
 			]
 		}
@@ -43,19 +43,19 @@
 		},
 		{
 			"item": "phase-fabric",
-			"amount": 800
+			"amount": 400
 		},
 		{
 			"item": "titanium",
-			"amount": 500
+			"amount": 300
 		},
 		{
 			"item": "silicon",
-			"amount": 350
+			"amount": 300
 		},
 		{
 			"item": "surge-alloy",
-			"amount": 200
+			"amount": 40
 		}
 	]
 }
