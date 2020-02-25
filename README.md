@@ -1,7 +1,8 @@
 Thorge expansion 
 ==
-*pre-release 1.3*
-
+*alpha 1.4*
+•Faster load time, merged scripts
+•Beta prismancer
 ***
 **A large mod that adds tons of contents, some are usefull some or unnecessary
 some are Overpowered some are balanced, adds new enemies, blocks, turrets, etc**

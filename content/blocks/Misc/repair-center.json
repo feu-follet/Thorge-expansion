@@ -6,7 +6,7 @@
 	"size": 3,
 	"powerUse": 2,
 	"repairRadius": 280,
-	"repairSpeed": 0.03,
+	"repairSpeed": 0.04,
 	"requirements": [
 	  {
 		"item": "metaglass",

@@ -20,5 +20,6 @@
 		}
 	],
 //	"category": "effect",
+	"buildVisibility": "hidden",
 	"research": "vault"
 }

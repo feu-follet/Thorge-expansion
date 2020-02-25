@@ -13,18 +13,19 @@
 		"name": "Gatling",
 		"length": 2,
 		"width": 1.5,
-		"reload": 320,
-		"shots": 5,
+		"reload": 20,
+		"shots": 1,
 		"spacing": 3,
 		"inaccuracy": 6,
 		"alternate": true,
-		"shotDelay": 12,
+		"shotDelay": 0,
+		"shootSound": "shootBig",
 		"bullet": {
 			"type": "BasicBulletType",
 			"speed": 6,
 			"damage": 2,
-			"bulletWidth": 5,
-			"bulletHeight": 6,
+			"bulletWidth": 10,
+			"bulletHeight": 12,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "none",
 			"hitEffect": "hitBulletSmall",
@@ -32,6 +33,8 @@
 			"inaccuracy": 6,
 			"bulletShrink": 0,
 			"splashDamage": 2,
+			"splashDamageRadius": 30,
+			"bulletSprite": "thorge-ex-energy",
 			"splashDamageRadius": 30
 		}
 	}

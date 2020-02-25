@@ -1,3 +1,4 @@
-require("mending-wall")
-require("nuclear-detonator")
+require("blocks")
+//require("nuclear-detonator")
+//require("prismancer")
 //require("effects-applier")

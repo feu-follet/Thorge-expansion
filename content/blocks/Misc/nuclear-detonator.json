@@ -11,16 +11,16 @@
     //"baseExplosiveness": 1100,
     "requirements": [
         {
-            "item": "plastanium",
-            "amount": 750
+            "item": "copper",
+            "amount": 1500
         },
         {
-            "item": "surge-alloy",
-            "amount": 850
+            "item": "silicon",
+            "amount": 800
         },
         {
-            "item": "phase-fabric",
-            "amount": 400
+            "item": "thorium",
+            "amount": 500
         }
     ],
     "consumes": {
@@ -28,7 +28,7 @@
             "items": [
                 {
                     "item": "blast-compound",
-                    "amount": 500
+                    "amount": 120
                 }
             ]
         }
