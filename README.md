@@ -1,9 +1,10 @@
 Thorge expansion 
 ==
-*alpha 1.4*
+*alpha 1.3*
 
-•Faster load time, merged scripts
-•Beta prismancer
+•Had to downgrade because pushing on mobile is very unreliable
+•Now wait
+•Nothing works
 ***
 **A large mod that adds tons of contents, some are usefull some or unnecessary
 some are Overpowered some are balanced, adds new enemies, blocks, turrets, etc**
