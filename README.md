@@ -1,6 +1,7 @@
 Thorge expansion 
 ==
 *alpha 1.4*
+
 •Faster load time, merged scripts
 •Beta prismancer
 ***
