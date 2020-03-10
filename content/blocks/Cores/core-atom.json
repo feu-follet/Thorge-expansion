@@ -1,6 +1,6 @@
 {
 	"name": "Core: Atoma",
-	"description": "A large core, armored variant of cores, can carry extreme amount of items, designed for semi permanent missions",
+	"description": "The first iteration of a core using temperite as its foundation, in result of its strength, it's capable of  withstanding tremendous damage",
 	"type": "CoreBlock",
 	"health": 14000,
 	"size": 6,
@@ -20,6 +20,6 @@
 		}
 	],
 //	"category": "effect",
-	"buildVisibility": "hidden",
+	"buildVisibility": "debugOnly",
 	"research": "vault"
 }

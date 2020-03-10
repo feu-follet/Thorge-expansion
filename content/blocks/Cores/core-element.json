@@ -19,7 +19,7 @@
 			"amount": 400
 		}
 	],
-	"buildVisibility": "hidden",
+	"buildVisibility": "debugOnly",
 //	"category": "effect",
 	"research": "vault"
 }

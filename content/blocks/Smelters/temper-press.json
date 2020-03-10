@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	//"type": "GenericSmelter",
 	"name": "Temper Press",
 	"description": "Melts extreme metals and cooling rapidly while also pressing it, results in a durable alloy",
 	"liquidCapacity": 30,
@@ -14,7 +14,7 @@
 	"itemCapacity": 24,
 	"craftTime": 85,
 	"craftEffect": "teleportOut",
-	"updateEffect": "freezing",
+	//"updateEffect": "freezing",
 	"flameColor": "88a4ff"
 	"consumes": {
 		"power": 20.0,
